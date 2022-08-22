@@ -97,6 +97,6 @@ This scrip made with love by Walletify, This script made only for education prop
 
 
 # 📞 Contact us
-- Telegram : `Walletify`
+- Telegram : `https://t.me/+MjR0WJPk3SI2MmM0`
 - Email address : wall3tify@protonmail.com
 `⭐ Special Script are available`
