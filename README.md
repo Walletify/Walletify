@@ -11,7 +11,7 @@ by `scraping` puplur sites for private & public key.
 
 
 ## 🌟 Demo / YouTube
-There's (3) methods for search `[PHP Script]`
+Updating the link..
 
 ## 🌟 Features
  
