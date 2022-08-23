@@ -11,6 +11,7 @@ by `scraping` puplur sites for private & public key.
 
 
 ## 🌟 Demo / YouTube
+![App Screenshot](https://github.com/Walletify/Walletify/blob/main/walletify_result.png?raw=true)
 Updating the link..
 
 ## 🌟 Features
@@ -94,6 +95,8 @@ Copyright Are reserved, You not allowed to publish, Modify, Resell Walletify wit
 This scrip made with love by Walletify, This script made only for education proposal don't be do any illegal activity and the responsibility will be at you and you take all the actions of wrong use. 
 
 🔴 NEVER USE DIFFERENT SOURCE AND WE WILL NOT BE RESPONSIBLE OF ANY DAMGE YOU GOT DURING DOWNLOADING, USING ANY OTHER SCRIPTS NOT LISTED IN OUR OFFICIAL GITHUB ACCOUNT.
+
+![App Screenshot](https://github.com/Walletify/Walletify/blob/main/walletify_alert.png?raw=true)
 
 
 # 📞 Contact us
